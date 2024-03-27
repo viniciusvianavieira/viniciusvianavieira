@@ -2,7 +2,7 @@
 
 <div align="">
   <a href="https://github.com/viniciusvianavieira">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000"/>
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvianavieira&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
