@@ -19,7 +19,7 @@
 
 #
 
-[![Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSPQpLzJVttTrjrwqGPXHDzxxMshWpTXdwNrBQBXLhVJSTtDXNjsfnrcFcpRMmzsxZDq)
+[![Linkedin](   https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSPQpLzJVttTrjrwqGPXHDzxxMshWpTXdwNrBQBXLhVJSTtDXNjsfnrcFcpRMmzsxZDq)
 
 ###
 
