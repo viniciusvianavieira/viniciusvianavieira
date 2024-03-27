@@ -11,10 +11,10 @@
 
   <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vinicius-AWS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
-  <img align="center" alt="Vinicius-Terraform" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+  <img align="center" alt="Vinicius-Terraform" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
   <img align="center" alt="Vinicius-GIT" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Vinicius-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-plain-wordmark.svg?size=128&color=currentColor">
-  
+  <img align="center" alt="Vinicius-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  
 </div>
 
 #
