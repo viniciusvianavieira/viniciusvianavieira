@@ -18,14 +18,15 @@
 </div>
 
 #
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
-
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSPQpLzJVttTrjrwqGPXHDzxxMshWpTXdwNrBQBXLhVJSTtDXNjsfnrcFcpRMmzsxZDq">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCCSPQpLzJVttTrjrwqGPXHDzxxMshWpTXdwNrBQBXLhVJSTtDXNjsfnrcFcpRMmzsxZDq">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 ###
 
