@@ -3,7 +3,7 @@
 <div align="">
   <a href="https://github.com/viniciusvianavieira">
     <img height="145em" src="https://github-readme-stats-alpha-wheat.vercel.app/api?username=viniciusvianavieira&include_all_commits=true&show_icons=true&bg_color=00000000"/>
-    <img height="145em" width="400em" src="https://github-readme-stats-alpha-wheat.vercel.app/api/top-langs/?username=viniciusvianavieira&layout=donut&bg_color=00000000"/>
+    <img height="145em" width="900em" src="https://github-readme-stats-alpha-wheat.vercel.app/api/top-langs/?username=viniciusvianavieira&layout=donut&bg_color=00000000"/>
   </a>
 </div>
 
