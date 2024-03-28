@@ -2,8 +2,8 @@
 
 <div align="">
   <a href="https://github.com/viniciusvianavieira">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=viniciusvianavieira&include_all_commits=true&show_icons=true&bg_color=00000000"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvianavieira&layout=donut"/>
+    <img height="145em" src="https://github-readme-stats-alpha-wheat.vercel.app/api?username=viniciusvianavieira&include_all_commits=true&show_icons=true&bg_color=00000000"/>
+    <img height="145em" src="https://github-readme-stats-alpha-wheat.vercel.app/api/top-langs/?username=viniciusvianavieira&layout=donut"/>
   </a>
 </div>
 
